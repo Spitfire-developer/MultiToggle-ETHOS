@@ -242,6 +242,12 @@ _Add screenshots here showing the MultiToggle panel in the ETHOS simulator._
 
 ---
 
+## Releases
+
+- [MultiToggle-ETHOS v1.0](https://github.com/Spitfire-developer/MultiToggle-ETHOS/releases/tag/v1.0)
+  
+---
+
 # Project Status
 
 MultiToggle is currently an **experimental / demonstration component**.
