@@ -236,6 +236,18 @@ The online simulator allows the concept to be tested directly in a browser befor
 
 ---
 
+## Community Feedback
+
+Have you tried MultiToggle?
+
+We would like to know what you think about the concept, the touchscreen controls and possible applications.
+
+**[Join the MultiToggle Community Discussion](https://github.com/Spitfire-developer/MultiToggle-ETHOS/discussions/1)**
+
+⭐ If you like the project, consider giving the repository a star on GitHub — it really helps the project get noticed.
+
+---
+
 # Screenshots
 
 _Add screenshots here showing the MultiToggle panel in the ETHOS simulator._
