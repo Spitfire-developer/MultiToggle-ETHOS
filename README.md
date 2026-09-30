@@ -279,3 +279,8 @@ MultiToggle is an independent demonstration component developed as part of the o
 Developed as part of the ongoing exploration of advanced touchscreen control and modular control-panel concepts for FrSky ETHOS.
 
 Feedback, testing and technical discussion are welcome.
+
+
+## License
+This project (compiled release) is distributed under CC BY-NC-ND 4.0.
+See the LICENSE file for details.
