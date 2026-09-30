@@ -228,7 +228,7 @@ The result is a small, self-contained demonstration focused on the actual concep
 
 ### ETHOS Simulator
 
-**[Online ETHOS Simulator Demo — coming soon]**
+**[Try MultiToggle in the Online ETHOS Simulator](https://ethos-simulator.frsky-rc.com/26.1.2/X20RS_EU?backup=https:%2F%2Fgithub.com%2FSpitfire-developer%2FMultiToggle-ETHOS%2Freleases%2Fdownload%2Fv1.0%2FX20RS.zip&reset=all&language=en)**
 
 The online simulator allows the concept to be tested directly in a browser before installing it on a physical transmitter.
 
