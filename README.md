@@ -250,7 +250,8 @@ We would like to know what you think about the concept, the touchscreen controls
 
 # Screenshots
 
-_Add screenshots here showing the MultiToggle panel in the ETHOS simulator._
+_<img width="3840" height="1698" alt="Ethos Online - Personale - Microsoft​ Edge 01_10_2026 00_14_46" src="https://github.com/user-attachments/assets/98bb4d5e-8ed9-4c08-8daa-a914d60a27a2" />
+_<img width="3840" height="1690" alt="Ethos Online - Personale - Microsoft​ Edge 01_10_2026 00_14_31" src="https://github.com/user-attachments/assets/9916a57e-135e-4d8d-bc17-98f71ed49dd8" />
 
 ---
 
