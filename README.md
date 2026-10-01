@@ -276,7 +276,9 @@ When an application requires more simple controls than the physical transmitter 
 
 **More functions do not necessarily have to mean more physical switches.**
 
+
 https://github.com/FrSkyRC/ETHOS-Feedback-Community/discussions/6348
+
 ---
 
 # Related Project
